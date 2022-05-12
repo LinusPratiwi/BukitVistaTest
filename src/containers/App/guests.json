@@ -1,0 +1,29 @@
+[
+{
+"booking_code": "HIJ12345",
+"guest_name": "Violet Well",
+"property_name": "Canggu Villa",
+"check_in_date": "26 April 2021",
+"check_out_date": "30 April 2021",
+"arrival_time": "",
+"profile_picture": "https://picsum.photos/200/300?random=1"
+},
+{
+"booking_code": "HIJ12346",
+"guest_name": "Bluebell Garden",
+"property_name": "Ubud Villa",
+"check_in_date": "5 May 2021",
+"check_out_date": "12 May 2021",
+"arrival_time": "",
+"profile_picture": "https://picsum.photos/200/300?random=1"
+},
+{
+"booking_code": "HIJ12347",
+"guest_name": "Rose Marry",
+"property_name": "Uluwatu Villa",
+"check_in_date": "18 May 2021",
+"check_out_date": "22 May 2021",
+"arrival_time": "",
+"profile_picture": "https://picsum.photos/200/300?random=1"
+}
+]
